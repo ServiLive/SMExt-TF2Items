@@ -1,6 +1,10 @@
 # Builds when a release is published.
 name: Build Workflow
 
+# ADD THIS SECTION HERE
+permissions:
+  contents: write
+  
 on:
   push:
     branches:
