@@ -19,3 +19,4 @@ Copy the files to the appropriate directories.
 
 Note that `tf2items_manager.smx` is disabled by default.  Move it out of the `optional`
 subdirectory for it to be automatically loaded by SourceMod.
+ 
