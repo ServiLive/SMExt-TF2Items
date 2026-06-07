@@ -57,7 +57,7 @@ jobs:
           - x86_64
         include:
           - meta_branch: "1.12-dev"
-            sm_branch: "07735c1"
+            sm_branch: "07735c1fe25241bcdd3882bd3ac840eb52b80630"
             spcomp_version: "1.11.x"
 
           - os: ubuntu-22.04
